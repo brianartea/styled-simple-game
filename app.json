@@ -2,7 +2,7 @@
   "expo": {
     "name": "Guess a Number App",
     "description": "Simple Guess a Number Game App",
-    "slug": "guess-number-app",
+    "slug": "guess-a-number-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
